@@ -1,1 +1,3 @@
 # hello-world
+
+This is my following the guide on how to use Github...
